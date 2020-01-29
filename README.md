@@ -10,7 +10,7 @@ Contribute by opening a pull request:
 
 # February
 
- | Name  | Location | Date | Application Period | MLH Partnered | Notes |
+ | Name  | Location | Date | Application Period | MLH Partnered? | Notes |
  |---|---|---|---|---|---|
  | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31 - Feb 2 | Registration Open | Only Girls | :white_check_mark: |
  | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Open |   | :white_check_mark: |
@@ -26,30 +26,30 @@ Contribute by opening a pull request:
 
 # March
 
- | Name  |  Location | Date | Application Period | MLH Partnered | Notes |
+ | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
  |---|---|---|---|---|---|
  | [New Hacks](http://www.newhacks.ca/)  | Toronto | March 7-8 | Applications are Open | :x: |
- | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are Open |   | :white_check_mark: |
- | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
+ | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are Open | :white_check_mark: |
+ | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD | 
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
 
 
 # April
 
- | Name  |  Location | Date | Application Period | MLH Partnered | Notes |
+ | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
  |---|---|---|---|---|---|
- | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23-24 | During weekdays | :x: |
- | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD |  Highschool Hackathon |
+ | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23-24 | :x: | During weekdays |
+ | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD | TBD | Highschool Hackathon 
 
 # May
 
- | Name  |  Location | Date | Application Period | MLH Partenered | Notes |
+ | Name  |  Location | Date | Application Period | MLH Partenered? | Notes |
  |---|---|---|---|---|---|
- | [TOHacks](https://www.tohacks.ca/)  | Toronto | May 2-3 | TBD |  | :x: |
+ | [TOHacks](https://www.tohacks.ca/) | Toronto | May 2-3 | TBD | :x: |
 
 # September
  
- | Name  |  Location | Date | Application Period | MLH Partnered | Notes |
+ | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
  |---|---|---|---|---|---|
  | [Citizen Hacks](https://www.citizenhacks.com/) | Toronto | Sep 6-8 | Finished | :white-check_mark: |
  | [Hack the North](https://hackthenorth.com/) | Waterloo | Sep 13-15 | Applications Finished | :white_check_mark: |
