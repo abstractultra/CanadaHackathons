@@ -28,6 +28,7 @@ Contribute by opening a pull request:
  |---|---|---|---|---|
  | [New Hacks](https://www.newhacks.ca/)  | Toronto | March 7-8 | Applications are Open | :x: |
  | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications open Jan 20 |   | :white_check_mark: |
+
  | [ETHUoft](https://www.ethuoft.ca)  | Toronto | TBD | TBD |  |
  | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
 
