@@ -23,11 +23,13 @@ Contribute by opening a pull request:
 | [QHacks](https://qhacks.io/)  | Kingston | Jan 31 - Feb 2 | Applications are Closed |  :white_check_mark: |  |
 | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Tickets are available (high school tickets sold out) | :x: | Focused on Design |
 | [McHacks](https://mchacks.ca/) | McGill | Feb 1 - 2 | Applications are Closed | :x: |
+| [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | [Applications Open](http://worldaffairs.ucc.on.ca/wacathon/index.html) |   | :x: |
 | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8 - 9 | Applications are Open, only Gr. 11 and up | :x: |
 | [uOttaHack](https://2020.uottahack.ca/) | Ottawa | Feb 7 - 9 | Applications are Closed | :x: | Bus to Waterloo |
 | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14 - 16 | Applications are Open | :white_check_mark: |
 | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15 - 16 | Applications are Open | :white_check_mark: |
 | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17 - 18 | Registration Open | :x: | Ages 16-19, during weekdays | 
+| [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open Early February |  | :x: |
 | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Tickets are Available | :x: | Highschool Hackathon |
 
 
@@ -54,6 +56,12 @@ Contribute by opening a pull request:
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [TOHacks](https://www.tohacks.ca/) | Toronto | May 2 - 3 | TBD | :x: |
+
+# June
+
+| Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
+|---|---|---|---|---|---|
+| [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available |  Some time between June 14-19 |  | :x: |
 
 # August
 
