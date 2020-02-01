@@ -51,9 +51,16 @@ Contribute by opening a pull request:
 
 # May
 
-| Name  |  Location | Date | Application Period | MLH Partenered? | Notes |
+| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [TOHacks](https://www.tohacks.ca/) | Toronto | May 2 - 3 | TBD | :x: |
+
+# August
+
+| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+|---|---|---|---|---|---|
+| [HackThe6ix](https://www.hackthe6ix.ca/) | Toronto | August TBD | TBD | :x: |
+
 
 # September
  
