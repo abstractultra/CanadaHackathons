@@ -61,7 +61,7 @@ Contribute by opening a pull request:
 
 | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
 |---|---|---|---|---|---|
-| [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available |  Some time between June 14-19 |  | :x: |
+| [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available | Sometime between June 14-19 | :x: |
 
 # August
 
