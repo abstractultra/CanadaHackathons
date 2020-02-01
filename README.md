@@ -82,6 +82,12 @@ Contribute by opening a pull request:
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [MHacks](https://mhacks.org) | Michigan | Oct TBD | TBD | TBD |
+
+# November
+
+| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+|---|---|---|---|---|---|
+| [ECHacks](https://echacks.dev) | Peterborough | Nov TBD | TBD | TBD |
  
  
 
