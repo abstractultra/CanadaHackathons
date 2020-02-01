@@ -74,8 +74,14 @@ Contribute by opening a pull request:
  
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
-| [Citizen Hacks](https://www.citizenhacks.com/) | Toronto | Sep 6 - 8 | Finished | :white-check_mark: |
-| [Hack the North](https://hackthenorth.com/) | Waterloo | Sep 13 - 15 | Applications Finished | :white_check_mark: |
+| [Citizen Hacks](https://www.citizenhacks.com/) | Toronto | Sep 6 - 8 | TBD | :white-check_mark: |
+| [Hack the North](https://hackthenorth.com/) | Waterloo | Sep 13 - 15 | TBD | :white_check_mark: |
+ 
+# October
+
+| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+|---|---|---|---|---|---|
+| [MHacks](https://mhacks.org) | Michigan | Oct TBD | TBD | :white-check_mark: |
  
  
 
