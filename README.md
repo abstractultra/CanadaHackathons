@@ -10,10 +10,11 @@ Contribute by opening a pull request:
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
-| [UofTHacks VII](https://uofthacks.com/)  | Toronto | Jan 17 - 19 | Applications are closed | :white_check_mark: |
-| [StarterHacks](https://www.starterhacks.ca)  | Toronto | Jan 18 - 19 | Mailing List | :white_check_mark: |
-| [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan 25 - 26 | Applications are open | :white_check_mark: |
-| [ConUHacks](https://conuhacks.io)  | Montreal | Jan 25 - 26 | Applications are open - Bus to Toronto | :white_check_mark: |
+| [cuHacking2020](https://cuhacking.com/) | Ottawa | Jan 11 - 12 | Finished | :white_check_mark: |
+| [UofTHacks VII](https://uofthacks.com/) | Toronto | Jan 17 - 19 | Finished | :white_check_mark: |
+| [StarterHacks](https://www.starterhacks.ca) | Toronto | Jan 18 - 19 | Finished | :white_check_mark: |
+| [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan 25 - 26 | Finished | :white_check_mark: |
+| [ConUHacks](https://conuhacks.io)  | Montreal | Jan 25 - 26 | Finished | :white_check_mark: |
 
 # February
 
@@ -89,7 +90,11 @@ Contribute by opening a pull request:
 |---|---|---|---|---|---|
 | [ECHacks](https://echacks.dev) | Peterborough | Nov TBD | TBD | TBD |
  
- 
+# December
+
+| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+|---|---|---|---|---|---|
+| [HackTheHammer](https://hackthehammer.com) | Hamilton | Dec TBD | TBD | TBD |
 
 
 
