@@ -6,7 +6,7 @@ Contribute by opening a pull request:
 2. Press the edit button (should look like a pencil)
 3. Make your changes and open your pull request!
 
-# January 2020
+# January
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@ Contribute by opening a pull request:
 | [DeltaHacks](https://www.deltahacks.com/) | Hamilton | Jan 25 - 26 | Finished | :white_check_mark: |
 | [ConUHacks](https://conuhacks.io)  | Montreal | Jan 25 - 26 | Finished | :white_check_mark: |
 
-# February 2020
+# February
 
 | Name  | Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@ Contribute by opening a pull request:
 | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Tickets are Available | :x: | Highschool Hackathon |
 
 
-# March 2020
+# March
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
@@ -45,52 +45,52 @@ Contribute by opening a pull request:
 | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
 
 
-# April 2020
+# April
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23 - 24 | Tickets are Available | :x: | During weekdays |
 | [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD | TBD | Highschool Hackathon 
 
-# May 2020
+# May
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [TOHacks](https://www.tohacks.ca/) | Toronto | May 2 - 3 | TBD | :x: |
 
-# June 2020
+# June
 
 | Name  |  Location | Date | Application Period |  Notes | MLH Partenered |
 |---|---|---|---|---|---|
 | [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available | Sometime between June 14-19 | :x: |
 
-# August 2020
+# August
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [HackThe6ix](https://www.hackthe6ix.ca/) | Toronto | August TBD | TBD | :x: |
 
 
-# September 2020
+# September
  
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [Citizen Hacks](https://www.citizenhacks.com/) | Toronto | Sep 6 - 8 | TBD | :white_check_mark: |
 | [Hack the North](https://hackthenorth.com/) | Waterloo | Sep 13 - 15 | TBD | :white_check_mark: |
  
-# October 2020
+# October
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [MHacks](https://mhacks.org) | Michigan | Oct TBD | TBD | TBD |
 
-# November 2020
+# November
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [ECHacks](https://echacks.dev) | Peterborough | Nov TBD | TBD | TBD |
  
-# December 2020
+# December
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
