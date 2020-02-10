@@ -24,7 +24,7 @@ Contribute by opening a pull request:
 | [QHacks](https://qhacks.io/)  | Kingston | Jan 31-Feb 2 | Finished |  :white_check_mark: |
 | [DesignathonUofT](https://www.eventbrite.com/e/designathon-uoft-2020-tickets-84530550151/) | Toronto | Feb 1-2 | Finished | :x: | Focused on Design |
 | [McHacks](https://mchacks.ca/) | McGill | Feb 1-2 | Finished | :x: |
-| [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | [Applications Open](http://worldaffairs.ucc.on.ca/wacathon/index.html) | Finished  | :x: |
+| [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | Finished | :x: |
 | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Finished | :x: |
 | [uOttaHack](https://2020.uottahack.ca/) | Ottawa | Feb 7-9 | Finished | :x: | Bus to Waterloo |
 | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | Applications are Closed | :white_check_mark: |
