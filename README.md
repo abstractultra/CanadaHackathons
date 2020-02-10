@@ -1,5 +1,5 @@
 # TorontoHackathons
-Active list of upcoming hackathons near (or providing transportation near) Toronto!
+Active list of upcoming hackathons in/near Canada!
 
 Contribute by opening a pull request:
 1. Make sure you're on README.md
