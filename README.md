@@ -30,7 +30,7 @@ Contribute by opening a pull request:
 | [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | Applications are Closed | :white_check_mark: |
 | [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open | :white_check_mark: |
 | [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | :x: | Ages 16-19, during weekdays | 
-| [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open Early February | :x: |
+| [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open | :x: |
 | [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Tickets are Available | :x: | Highschool Hackathon |
 
 
@@ -38,9 +38,9 @@ Contribute by opening a pull request:
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
-| [New Hacks](http://www.newhacks.ca/)  | Toronto | March 7 - 8 | Applications are Open | :x: |
-| [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13 - 14 | Applications are Open | :white_check_mark: |
-| [WinHacks2020](https://winhacks.ca/) | Windsor | March 27 - 29 | Applications are Open | :white_check_mark: |
+| [New Hacks](http://www.newhacks.ca/)  | Toronto | March 7-8 | Applications are Open | :x: |
+| [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | March 13-14 | Applications are Open | :white_check_mark: |
+| [WinHacks2020](https://winhacks.ca/) | Windsor | March 27-29 | Applications are Open | :white_check_mark: |
 | [ETHUoft](https://www.ethuoft.ca) | Toronto | TBD | TBD | 
 | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
 
@@ -50,13 +50,13 @@ Contribute by opening a pull request:
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23 - 24 | Tickets are Available | :x: | During weekdays |
-| [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25 - 26 | TBD | TBD | Highschool Hackathon 
+| [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25-26 | TBD | TBD | Highschool Hackathon 
 
 # May
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
-| [TOHacks](https://www.tohacks.ca/) | Toronto | May 2 - 3 | TBD | :x: |
+| [TOHacks](https://www.tohacks.ca/) | Toronto | May 2-3 | TBD | :x: |
 
 # June
 
