@@ -1,4 +1,4 @@
-# TorontoHackathons
+# CanadaHackathons
 Active list of upcoming hackathons in/near Canada!
 
 Contribute by opening a pull request:
