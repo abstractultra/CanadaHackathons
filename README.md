@@ -90,6 +90,7 @@ Contribute by opening a pull request:
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
 | [ECHacks](https://echacks.dev) | Peterborough | Nov TBD | TBD | TBD |
+| [Hack Western](https://hackwestern.com/) | London | Nov TBD | TBD | TBD |
  
 # December
 
