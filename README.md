@@ -40,7 +40,7 @@ Contribute by opening a pull request:
 |---|---|---|---|---|---|
 | [New Hacks](http://www.newhacks.ca/)  | Toronto | Mar 7-8 | Applications are Open | :x: |
 | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Mar 13-14 | Applications are Open | :white_check_mark: |
-| [MacHacks](https://www.machacks.com/) | Hamilton | Mar 21-22 | Applications are Open | :x: |
+| [MacHacks](https://www.machacks.ca/) | Hamilton | Mar 21-22 | Applications are Open | :x: |
 | [WinHacks2020](https://winhacks.ca/) | Windsor | Mar 27-29 | Applications are Open | :white_check_mark: |
 | [ETHUoft](https://www.ethuoft.ca) | Toronto | TBD | TBD | 
 | [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
