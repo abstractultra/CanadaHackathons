@@ -27,20 +27,20 @@ Contribute by opening a pull request:
 | [WAC Sprint Hackathon](https://www.eventbrite.com/e/sprint-hackathon-tickets-89766789885) | Toronto | Feb 3-4 | Finished | :x: |
 | [NSBE Hacks](http://www.nsbehacksuoft.ca)  | Toronto | Feb 8-9 | Finished | :x: |
 | [uOttaHack](https://2020.uottahack.ca/) | Ottawa | Feb 7-9 | Finished | :x: | Bus to Waterloo |
-| [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | Applications are Closed | :white_check_mark: |
-| [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Applications are Open | :white_check_mark: |
-| [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Registration Open | :x: | Ages 16-19, during weekdays | 
-| [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Registrations Open | :x: |
-| [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Tickets are Available | :x: | Highschool Hackathon |
+| [Hack The Valley](https://hackthevalley.io/)  | Toronto | Feb 14-16 | Finished | :white_check_mark: |
+| [Make UofT](https://ieee.utoronto.ca/makeuoft/)  | Toronto | Feb 15-16 | Finished | :white_check_mark: |
+| [Aurora Hackathon](https://www.eventbrite.ca/e/aurora-hackathon-tickets-86600352987) | Aurora | Feb 17-18 | Finished | :x: | Ages 16-19, during weekdays | 
+| [Steacie Library Dungeon Hackfest](https://hackfest.library.yorku.ca/2020/) | Toronto | Feb 19-20 | Finished | :x: |
+| [TurnerHacks](https://turnerhacks.com/)  | Brampton | Feb 29 | Postponed | :x: | Highschool Hackathon |
 
 
 # March
 
 | Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
 |---|---|---|---|---|---|
-| [New Hacks](http://www.newhacks.ca/)  | Toronto | Mar 7-8 | Applications are Open | :x: |
+| [New Hacks](http://www.newhacks.ca/)  | Toronto | Mar 7-8 | Applications are Closed | :x: |
 | [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Mar 13-14 | Applications are Open | :white_check_mark: |
-| [MacHacks](https://www.machacks.ca/) | Hamilton | Mar 21-22 | Applications are Open | :x: |
+| [MacHacks](https://www.machacks.ca/) | Hamilton | Mar 21-22 | Applications are Closed | :x: |
 | [HackXplore2020](https://techxplore.wixsite.com/hackxplore2020) | Toronto | Mar 21-22 | Applications are Open | :x: |
 | [WinHacks2020](https://winhacks.ca/) | Windsor | Mar 27-29 | Applications are Open | :white_check_mark: |
 | [ETHUoft](https://www.ethuoft.ca) | Toronto | TBD | TBD | 
