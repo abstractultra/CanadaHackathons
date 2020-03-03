@@ -8,7 +8,7 @@ Contribute by opening a pull request:
 
 # January
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [cuHacking2020](https://cuhacking.com/) | Ottawa | Jan 11-12 | Finished | :white_check_mark: |
 | [UofTHacks VII](https://uofthacks.com/) | Toronto | Jan 17-19 | Finished | :white_check_mark: |
@@ -18,7 +18,7 @@ Contribute by opening a pull request:
 
 # February
 
-| Name  | Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  | Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [ElleHacks](https://ellehacks.com/) | Toronto | Jan 31-Feb 2 | Finished | :white_check_mark: | Only Girls
 | [QHacks](https://qhacks.io/)  | Kingston | Jan 31-Feb 2 | Finished |  :white_check_mark: |
@@ -36,66 +36,66 @@ Contribute by opening a pull request:
 
 # March
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
-| [New Hacks](http://www.newhacks.ca/)  | Toronto | Mar 7-8 | Applications are Closed | :x: |
-| [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Mar 13-14 | Applications are Open | :white_check_mark: |
+| [New Hacks](http://www.newhacks.ca/)  | Toronto | Mar 7-8 | Applications are Closed
+| [Sheridan Hackville]( https://www.hackville.io/)  | Oakville | Mar 13-14 | Applications are Open
 | [MacHacks](https://www.machacks.ca/) | Hamilton | Mar 21-22 | Applications are Closed | :x: |
-| [HackXplore2020](https://techxplore.wixsite.com/hackxplore2020) | Toronto | Mar 21-22 | Applications are Open | :x: |
-| [WinHacks2020](https://winhacks.ca/) | Windsor | Mar 27-29 | Applications are Open | :white_check_mark: |
-| [ETHUoft](https://www.ethuoft.ca) | Toronto | TBD | TBD | 
-| [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |   |
+| [HackXplore2020](https://techxplore.wixsite.com/hackxplore2020) | Toronto | Mar 21-22 | Applications are Open
+| [WinHacks2020](https://winhacks.ca/) | Windsor | Mar 27-29 | Applications are Open
+| [ETHUoft](https://www.ethuoft.ca) | Toronto | TBD | 
+| [HackLassonde](http://hacklassonde.ca/)  | Toronto | TBD | [TBD](https://www.facebook.com/hacklassonde/photos/a.1624337027866972/2102961226671214/) |
 
 
 # April
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [ADI Hackathon](https://eventchain.io/event-details/f9c7436eb38559d1bed413bfcf810597/ADI_Toronto_Summit_and_Hackathon) | Toronto | Apr 23 - 24 | Tickets are Available | :x: | During weekdays |
-| [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25-26 | TBD | TBD | Highschool Hackathon 
+| [MasseyHacks](https://masseyhacks.ca/)  | Windsor | Apr. 25-26 | TBD | Highschool Hackathon 
 
 # May
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [TOHacks](https://www.tohacks.ca/) | Toronto | May 2-3 | TBD | :x: |
 
 # June
 
-| Name  |  Location | Date | Application Period | MLH Partenered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [IWP9 Hackathon](https://www.eventbrite.com/e/iwp9-2020-tickets-87082440925) | Waterloo | Tickets Are Available | Sometime between June 14-19 | :x: |
 
 # August
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [HackThe6ix](https://www.hackthe6ix.ca/) | Toronto | August TBD | TBD | :x: |
 
 
 # September
  
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [Citizen Hacks](https://www.citizenhacks.com/) | Toronto | Sep 6 - 8 | TBD | :white_check_mark: |
 | [Hack the North](https://hackthenorth.com/) | Waterloo | Sep 13 - 15 | TBD | :white_check_mark: |
  
 # October
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [MHacks](https://mhacks.org) | Michigan | Oct TBD | TBD | TBD |
 
 # November
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [ECHacks](https://echacks.dev) | Peterborough | Nov TBD | TBD | TBD |
 | [Hack Western](https://hackwestern.com/) | London | Nov TBD | TBD | TBD |
  
 # December
 
-| Name  |  Location | Date | Application Period | MLH Partnered? | Notes |
+| Name  |  Location | Date | Application Period | Notes |
 |---|---|---|---|---|---|
 | [HackTheHammer](https://hackthehammer.com) | Hamilton | Dec TBD | TBD | TBD |
 
